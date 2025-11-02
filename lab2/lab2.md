@@ -43,6 +43,9 @@ Screenshot of the .json file
 Screenshot of the Test/run Input file 
 *uploading lecture 3 to test
 ![alt text](image-12.png)
+![alt text](image-15.png)
+![alt text](image-16.png)
+
 
 Screenshot of the output
 ![alt text](image-11.png)
