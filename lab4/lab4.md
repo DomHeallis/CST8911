@@ -51,3 +51,20 @@ Updated html
 ![alt text](image-12.png)
 
 # step 6 - Updated web site
+
+site is updating
+![alt text](image-13.png)
+
+Update complete
+![alt text](image-14.png)
+
+new site
+![alt text](image-15.png)
+
+# Step 7 - Delete everything
+
+static web app deleted
+![alt text](image-16.png)
+
+resource group deleted
+![alt text](image-17.png)
